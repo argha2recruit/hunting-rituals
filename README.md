@@ -1,6 +1,6 @@
 # Sourcing Agent
 
-A simple tool that helps recruiters **find engineers on GitHub** by skill and location, and quickly see what each person actually works with.
+A useful tool that helps recruiters **find engineers on GitHub** by skill and location, and quickly see what each person actually works with.
 
 > **💬 Chat version available:** Just type what you need in plain English, like *"Find React engineers in Delhi and Kolkata, run deep search"*, and get your candidate list right in the chat. No setup, no forms.
 
@@ -8,7 +8,7 @@ A simple tool that helps recruiters **find engineers on GitHub** by skill and lo
 
 ## The problem
 
-Finding good engineers usually means opening dozens of GitHub profiles one by one, checking their location, scanning their projects, and guessing their skills. It's slow, and easy to miss good people.
+Finding strong engineers usually means opening dozens of GitHub profiles one by one, checking their location, scanning their projects, and guessing their skills. It's slow, and easy to miss strong people.
 
 ## Who it's for
 
